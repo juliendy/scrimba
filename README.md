@@ -12,5 +12,3 @@ __// URL: [Certificate ](to be updated)__
 - Space Exploration -
 - Gift Site -
 - Hometown Homepage -
-
-https://github.com/juliendy/scrimba/tree/master/module2/2_google-clone
