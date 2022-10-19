@@ -1,4 +1,3 @@
-# Scrimba
 # Scrimba Solo Projects
 
 Projects based on the The Frontend Developer Career Path [curriculum](https://scrimba.com/learn/frontend). 
