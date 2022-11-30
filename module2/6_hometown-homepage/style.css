@@ -20,7 +20,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 50vh;
+    height: 100vh;
     background-image: url("https://images.unsplash.com/photo-1484689228555-fd6bc1b28b7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80");
     background-size: cover;
     color: white;
@@ -50,10 +50,15 @@ h2 {
     opacity: 0.8;
 }
 
-h1:hover,
+h1:hover {
+    opacity: 1;
+    transform: translateX(-10px);
+    transition: transform .5s ease-out;
+    /* padding: .5rem; */
+}
+
 h2:hover {
     opacity: 1;
-    /* padding: .5rem; */
 }
 
 .activities {
@@ -61,7 +66,7 @@ h2:hover {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    height: 35vh;
+    height: 60vh;
 }
 
 .activities-card {
@@ -72,8 +77,8 @@ h2:hover {
     width:14vw; 
     height:13vw; 
     border-radius:50%;
-    border: 0.4rem solid red;
-    transition: transform 1s;
+    /* border: 0.4rem solid red; */
+    transition: transform 1s ease;
 }
 
 .activities-img:hover {
@@ -82,12 +87,20 @@ h2:hover {
 
 .primary-text {
     font-weight: 800;
+    font-size: 1rem;
+    color: #1d3557;
 }
 
+/* .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+} */
+
 .title-section {
-    margin-top:0;
-    margin-bottom: 0;
-    padding: 1rem 0 0 0;
+    margin: 0 0 auto;
+    padding: 3rem 0 0 0;
     background: #f7ff58;
     font-size: 1.3rem;
     color: #1d3557;
@@ -97,6 +110,7 @@ h2:hover {
 
 p {
     font-weight: 400;
+    font-size: 1rem;
     color: #1d3557;
 }
 
@@ -108,5 +122,5 @@ p {
 }
 
 img {
-    width: 10rem;
+    width: 100rem;
 }
