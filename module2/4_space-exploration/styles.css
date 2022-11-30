@@ -6,7 +6,7 @@ body {
 }
 
 #hero {
-    background-image: url("https://juliendy.github.io/scrimba/module2/4_space-exploration/galaxy.webp");
+    background-image: url("/module2/4_space-exploration/galaxy.webp");
     background-size: cover;
     padding: 10px 0 40px 0;
 }
