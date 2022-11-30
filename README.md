@@ -16,4 +16,4 @@ __// URL: [Certificate ](to be updated)__
 
 - Gift Site - __[View on GitHub](https://juliendy.github.io/scrimba/module2/5_gifT-site/) / [View on CodePen](https://codepen.io/juliendy/pen/NWzqbjX)__. _[[path](https://github.com/juliendy/scrimba/tree/master/module2/5_gifT-site)]_
 
-- Hometown Homepage - __[View on GitHub](https://juliendy.github.io/scrimba/module2/6_hometown-homepage/) 
+- Hometown Homepage - __[View on GitHub](https://juliendy.github.io/scrimba/module2/6_hometown-homepage/) / [View on CodePen](https://codepen.io/juliendy/pen/__. __[[path](https://github.com/juliendy/scrimba/tree/master/module2/6_hometown-homepage)]_
