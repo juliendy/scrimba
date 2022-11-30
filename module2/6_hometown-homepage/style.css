@@ -9,10 +9,9 @@ DARK BLUE: #1D3557
 */
 
 body {
-    margin: 0;
+    margin: 0 auto;
     text-align: center;
     font-size: 62.5%;
-    /* border: 0.5rem solid #F7FF58; */
     font-family: "Poppins", sans;
 }
 
@@ -62,7 +61,7 @@ h2:hover {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    height: 30vh;
+    height: 35vh;
 }
 
 .activities-card {
@@ -70,12 +69,30 @@ h2:hover {
 }
 
 .activities-img {
-    border-radius: 50%;
-    width: 10rem;
+    width:14vw; 
+    height:13vw; 
+    border-radius:50%;
+    border: 0.4rem solid red;
+    transition: transform 1s;
+}
+
+.activities-img:hover {
+    transform: scale(1.3) rotate(1deg);
 }
 
 .primary-text {
     font-weight: 800;
+}
+
+.title-section {
+    margin-top:0;
+    margin-bottom: 0;
+    padding: 1rem 0 0 0;
+    background: #f7ff58;
+    font-size: 1.3rem;
+    color: #1d3557;
+    text-decoration: underline;
+    text-align: center;
 }
 
 p {
@@ -87,6 +104,7 @@ p {
     display: flex;
     flex-direction: column;
     background-color: mistyrose;
+    height: 15vh;
 }
 
 img {
