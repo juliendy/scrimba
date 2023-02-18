@@ -17,3 +17,6 @@ __// URL: [Certificate ](to be updated)__
 - Gift Site - __[View on GitHub](https://juliendy.github.io/scrimba/module2/5_gifT-site/) / [View on CodePen](https://codepen.io/juliendy/full/NWzqbjX)__. _[[path](https://github.com/juliendy/scrimba/tree/master/module2/5_gifT-site)]_
 
 - Hometown Homepage - __[View on GitHub](https://juliendy.github.io/scrimba/module2/6_hometown-homepage/) / [View on CodePen](https://codepen.io/juliendy/full/KKexJYQ)__. __[[path](https://github.com/juliendy/scrimba/tree/master/module2/6_hometown-homepage)]_
+
+## Module 3
+- Unit Converter __[View on GitHub](https://juliendy.github.io/scrimba/module3/solo-unit-converter/) / [View on CodePen](https://codepen.io/juliendy/full/zYJvqPW)__. _[[path](https://github.com/juliendy/scrimba/tree/master/module3/solo-unit-converter)]_
