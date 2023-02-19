@@ -20,3 +20,4 @@ __// URL: [Certificate ](to be updated)__
 
 ## Module 3
 - Unit Converter __[View on GitHub](https://juliendy.github.io/scrimba/module3/solo-unit-converter/) / [View on CodePen](https://codepen.io/juliendy/full/zYJvqPW)__. _[[path](https://github.com/juliendy/scrimba/tree/master/module3/solo-unit-converter)]_
+- Password Generator __[View on GitHub](https://juliendy.github.io/scrimba/module3/solo-password-gen/) / [View on CodePen]()__. _[[path](https://github.com/juliendy/scrimba/tree/master/module3/solo-password-gen)]_
